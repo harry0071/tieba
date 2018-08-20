@@ -3187,6 +3187,10 @@ map-visit@^1.0.0:
   dependencies:
     object-visit "^1.0.0"
 
+marked@^0.5.0:
+  version "0.5.0"
+  resolved "http://registry.npm.taobao.org/marked/download/marked-0.5.0.tgz#9e590bad31584a48ff405b33ab1c0dd25172288e"
+
 math-expression-evaluator@^1.2.14:
   version "1.2.17"
   resolved "http://registry.npm.taobao.org/math-expression-evaluator/download/math-expression-evaluator-1.2.17.tgz#de819fdbcd84dccd8fae59c6aeb79615b9d266ac"
