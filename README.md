@@ -32,7 +32,7 @@ npm run build --report
 ## 问题汇总
 <details>
 <summary>计算属性不能使用箭头函数！</summary>
-```javascript
+```
 watch: {
 	number: function (newNum, oldNum) {
 	  console.log(this);
@@ -40,7 +40,7 @@ watch: {
 }
 ```
 下面这种写法是错误的，如果使用箭头函数，会导致this的指向发生错误     
-```javascript
+```
 //错误写法
 watch: {
 	number: (newNum, oldNum) => {
