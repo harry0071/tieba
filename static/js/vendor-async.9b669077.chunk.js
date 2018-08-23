@@ -1,0 +1,1 @@
+webpackJsonp([0],{vsZy:function(t,e,n){"use strict";e.a={filters:{formatDate:function(t){var e=new Date(t),n=(Date.now()-e)/1e3;return n<60?"刚刚":n<3600?parseInt(n/60)+"分钟前":n<86400?parseInt(n/3600)+"小时前":parseInt(n/86400)+"天前"},year:function(t){return new Date(t).getFullYear()},month:function(t){return new Date(t).getMonth()+1},day:function(t){return new Date(t).getDate()}}}}});
