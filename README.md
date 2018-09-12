@@ -6,6 +6,7 @@
 ## 预览图
 ![1.png](https://i.loli.net/2018/09/06/5b90e53ab42d6.png)
 
+![x.gif](https://i.loli.net/2018/09/12/5b986e5acb81b.gif)
 
 ## 预览链接
 👉 [点击预览](https://harry0071.github.io/tieba)
